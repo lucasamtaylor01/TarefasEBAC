@@ -7,7 +7,7 @@ Este projeto é o conjunto das atividades e aulas fornecidas no curso [Profissã
 
 1. Clonar o repositório
    ```bash
-   git clone https://github.com/lucasamtaylor01/EBAC.git
+   git clone https://github.com/lucasamtaylor01/TarefasEBAC.git
    ```
 2. Instalar dependências
     
