@@ -1,7 +1,7 @@
 # EBAC: Profissão cientista de dados
 
 ## 📝 Descrição
-Este projeto é o conjunto das atividades e aulas fornecidas no curso [Profissão cientista de dados](https://ebaconline.com.br/cientista-de-dados) oferecido pela EBAC.
+Este repositório é o conjunto das atividades selecionadas do curso [Profissão cientista de dados](https://ebaconline.com.br/cientista-de-dados) oferecido pela EBAC.
 
 ## ⚙️ Instalação
 
